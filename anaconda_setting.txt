@@ -1,0 +1,20 @@
+{
+	"auto_formatting": false,
+	"autoformat_ignore":
+	[
+		"E309",
+		"E501"
+	],
+	"pep8_ignore":
+	[
+		"E309",
+		"E501"
+	],
+    "auto_complete": true,
+    "auto_complete_commit_on_tab": false,
+    "show_definitions": true,
+    "tab_completion": false,
+    "anaconda_linting": false,
+    "anaconda_linter_mark_style": "none",
+    "anaconda_linter_underlines": false
+}
