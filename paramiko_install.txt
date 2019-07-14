@@ -1,0 +1,10 @@
+apt-get install build-essential libssl-dev libffi-dev python-dev
+asn1crypto
+pycparser
+cffi
+six
+cryptography
+bcrypt
+pycparser
+PyNaCl
+paramiko
