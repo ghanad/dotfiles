@@ -10,18 +10,5 @@ rooziato.com##.digiad.digiad-vertical
 
 
 ! test
-rooziato.com##div(id*="digiad")
-rooziato.com##div[id*="digiad"]
-rooziato.com#div(id*="digiad")
-rooziato.com#div[id*="digiad"]
-rooziato.com#div(id*="digiad")
-rooziato.com#[id*="digiad"]
-rooziato.com##[id*="digiad"]
-
-rooziato.com##div(id*=digiad)
-rooziato.com##div[id*=digiad]
-rooziato.com#div(id*=digiad)
-rooziato.com#div[id*=digiad]
-rooziato.com#div(id*=digiad)
-rooziato.com#[id*=digiad]
-rooziato.com##[id*=digiad]
+rooziato.com##[id="digiad*"]
+rooziato.com#[id="digiad*"]
