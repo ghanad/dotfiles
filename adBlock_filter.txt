@@ -1,4 +1,4 @@
-
+[Adblock Plus 2.0]
 ! Title: AdBlock ghanad
 
 www.1pezeshk.com##.adcontainer.container
